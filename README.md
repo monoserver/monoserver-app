@@ -7,6 +7,6 @@ Application éducative pour élèves de lycée (SNT/NSI) ou autodidactes.
 
 HTML, CSS, Javascript, PHP
 
-* fonctionne depuis une clé USB ou un dossier, pas d'installation, pas de droits administrateur nécessaires
+ * fonctionne depuis une clé USB ou un dossier, pas d'installation, pas de droits administrateur nécessaires
 
 Utilisation libre
